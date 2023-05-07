@@ -1,0 +1,66 @@
+html,body{     background-image: linear-gradient(to left,  #001829,#004f85,#0398fc, transparent 80%),url(imagens/a.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+background-attachment: fixed;}
+.d1{
+    background: linear-gradient(#0398fc, #004f85,#001829) ;
+    height: 500px;
+    width: 400px;
+    border-radius: 80px 0px 80px 0px;
+    border-color:white;
+    border-style: solid;
+    margin-left: 35%;
+    margin-top: 50px;
+    position: absolute;
+    float: right;
+    z-index: 2;
+    }
+    .d2{height: 100px;
+    width: 100px;
+    background-color:#0398fc;
+    background-image: url(imagens/d2.png);
+    background-size: 100%;
+    border-style: solid;
+    border-color: white;
+    border-radius: 100%;
+    margin-left: 47%;
+    position: absolute;
+    float: right;
+    z-index: 3;
+}
+.h1{margin-top: 70px;
+    text-align: center;
+    font-family: "Comfortaa", sans-serif;
+    color: white;}
+    .form{height: 500px;
+    width: 500px;
+    color: white;
+margin-top: 40px;
+margin-left: 12%;}
+.in{height: 20px;
+    width: 290px ;
+    border-radius: 10px;}
+.in2{height: 50px;
+    width: 290px ;
+    border-radius: 10px;}
+.botões{text-align: center;
+        height: 25px;
+        width: 100px;
+        background-color: #969693;
+        color: white;
+        border-radius: 10px;
+        border-style: solid;
+        border-color: #969693;
+        font-family:"Comfortaa", sans-serif; 
+        margin-top: 5%;}
+
+.botões2{text-align: center;
+        height: 19px;
+        width: 100px;
+        background-color: #969693;
+        color: white;
+        border-radius: 10px;
+        border-style: solid;
+        border-color: #969693;
+        font-family:"Comfortaa", sans-serif; 
+        margin-top: 5%;}

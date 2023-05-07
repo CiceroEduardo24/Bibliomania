@@ -1,0 +1,87 @@
+html,body{     background-image: url(imagens/a.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+background-attachment: fixed;}
+.d1{
+    background: linear-gradient(#0398fc, #004f85,#001829) ;
+    height: 500px;
+    width: 400px;
+    border-radius: 80px 0px 80px 0px;
+    border-color:white;
+    border-style: solid;
+    margin-left: 35%;
+    margin-top: 50px;
+    position: absolute;
+    float: right;
+    z-index: 2;
+    }
+.h1{margin-top: 70px;
+    text-align: center;
+    font-family: "Comfortaa", sans-serif;
+    color: white;}
+    .hjhj{margin-left:12%;
+        margin-top:-12px;
+        position:absolute;
+        font-size:10px;}
+.d2{height: 100px;
+    width: 100px;
+    background-color:#0398fc;
+    background-image: url(imagens/d1.png);
+    background-size: 100%;
+    border-style: solid;
+    border-color: white;
+    border-radius: 100%;
+    margin-left: 46%;
+    position:absolute;
+    float: right;
+    z-index: 3;
+}
+.d3{background-color:white;
+    height: 300px;
+    width: 200px;
+    color:black;
+     border-radius: 80px 0px 80px 0px;
+    border-color:red;
+    border-style: solid;
+    margin-left: 0%;
+    margin-top: 100%;
+    position: absolute;
+    overflow: hidden;
+     text-overflow: ellipsis;
+    float: right;
+    z-index: 1;}
+
+.form{height: 500px;
+    width: 500px;
+    color: white;
+margin-top: 40px;
+margin-left: 12%;}
+.in{height: 20px;
+    width: 290px ;
+    border-radius: 10px;}
+.file{height: 20px;
+    width: 290px ;
+    border-radius: 10px;
+   color: white;
+   background-color: black;}
+.botões{text-align: center;
+        height: 25px;
+        width: 100px;
+        background-color: #FF8210;
+        color: white;
+        border-radius: 10px;
+        border-style: solid;
+        border-color:#FF8210;
+        font-family:"Comfortaa", sans-serif; 
+        margin-top: 10%;}
+
+.botões2{text-align: center;
+        height: 25px;
+        width: 100px;
+        background-color: #FF8210;
+        color: white;
+        border-radius: 10px;
+        border-style: solid;
+        border-color: #FF8210;
+        font-family:"Comfortaa", sans-serif; 
+        margin-top: 10%;}

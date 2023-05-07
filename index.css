@@ -1,0 +1,112 @@
+html,body{
+	background-image:url(imagens/p.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-position: 0% 0%;
+background-attachment:fixed;}
+@media (max-width: 640px) {
+
+html,body{
+	background-image:url(imagens/p.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-position: 0% 0%;
+}
+
+}
+h1.t{color:white;
+	font-size: 50px;
+font-style: oblique;
+text-align: center;
+margin-top: 35%;}
+.d1{            height: 400px;
+				width: 400px ;
+				background-image:url(imagens/biblioteca.png);
+				background-size:100% 100%;
+				margin: 80px 550px;
+				border: solid;
+				border-color: white;
+				border-radius: 300px;
+				float: right;
+                z-index:1;}
+.d2{height: 250px;
+				width: 250px;
+				position: absolute;
+				background-color: white;
+				border: solid;
+				margin-left:700px;
+				margin-top: 20%;
+				border-color:#014A79;
+				border-radius: 150px;
+				z-index: 2;
+				float: right;
+
+}
+.h1{text-align: center;
+				font-family:sans-serif;
+				color: #778079 ;}
+
+.p1{margin-left: 10px;
+font-family: sans-serif;
+color: #778079 ;}
+
+.in{height:20px;
+			width: 100px;
+			border-style: solid;
+			border-color: #778079;
+			background-color: #adaaaa;
+			color: white;}
+
+.in2{height:20px;
+			width: 100px;
+			border-style: solid;
+			border-color: #778079;
+			background-color: #adaaaa;
+			margin-left:10px;
+}
+
+.p2{ text-align: center;
+	font-size: 15px;
+margin-left: 3px;
+font-family: sans-serif;
+color: #778079 ;
+}
+
+.login{height:30px;
+	width: 100px;
+	color: white;
+	font-family: sans-serif;
+	background-color: #FF8210;
+	border-style: solid;
+	border-color:#FF8210;
+	border-radius: 20px;
+	margin-left: 70px;
+	margin-top: 20px;
+  position: absolute;
+
+}
+.pular{height:30px;
+	width: 100px;
+	color: #910000;
+	font-family: sans-serif;
+	background-color: red;
+	border-style: solid;
+	border-color:red;
+	margin-left: 216%;
+	margin-top: -188%;
+  position:absolute;
+
+}
+a.a{color:#FF8210;}
+
+#myPassword {
+  width: 80px;
+  padding-right: 20px;
+}
+
+.olho {
+  cursor: pointer;
+  left: 75%;
+  position: absolute;
+  width: 20px;
+}
